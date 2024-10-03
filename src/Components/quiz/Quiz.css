@@ -1,0 +1,68 @@
+.container{
+    width: 40%;
+    margin: auto;
+    margin-top: 150px;
+    background: rgba(255, 255, 255, 0.851);
+    color: #262626;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 40px 50px;
+    border-radius: 10px;
+}
+.container hr{
+    height: 2px;
+    border: none;
+    background: #707070;
+}
+.container h2{
+    font-size: 27px;
+    font-weight: 500;
+}
+.container ul li{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    padding-left: 15px;
+    border: 1px solid #707070;  
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.container .unlocked:hover{
+    background: #f2f2f2;
+}
+.container ul li.locked:hover{
+    cursor: not-allowed;
+}
+.container button{
+    margin: auto;
+    width: 50%;
+    height: 55px;
+    background: #553f9a;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.container .index{
+    margin: auto;
+    font-size: 18px;
+}
+.container .correct {
+    background: #8ff4cb;
+    border-color: #03c08a;
+}
+.container .wrong {
+    background: #f1b3b3;
+    border-color: #ff0000;
+}
+.container .done-message {
+    font-size: 20px;
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
