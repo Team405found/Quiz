@@ -130,7 +130,7 @@ const Quiz = () => {
                         <li ref={option3} onClick={(e) => { checkAnswer(e, 3) }}>{question.options[2]}</li>
                         <li ref={option4} onClick={(e) => { checkAnswer(e, 4) }}>{question.options[3]}</li>
                     </ul>
-                    {locked && <div className="done-message">Done!! Can't answer this anymore.</div>}
+                    {/* {locked && <div className="done-message">Done!! Can't answer this anymore.</div>} */}
                     <button onClick={nextQuestion}>Next</button>
                     <div className='index'>{(index%10) + 1} of 10 questions</div></>}
         </div>
