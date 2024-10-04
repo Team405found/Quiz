@@ -17,286 +17,287 @@ export const quizData = [
         options: ['DOLPHINS', 'SHARKS', 'TURTLES', 'ALL OF THE ABOVE'],
         answer: 1
     },
+    // New set of questions
     {
         id: 4,
-        question: 'WHAT IS THE PRIMARY GAS RESPONSIBLE FOR THE GREENHOUSE EFFECT?',
-        options: ['OXYGEN', 'NITROGEN', 'CARBON DIOXIDE', 'HYDROGEN'],
+        question: 'Which of the following is a major greenhouse gas?',
+        options: ['Oxygen', 'Nitrogen', 'Carbon dioxide', 'Helium'],
         answer: 3
     },
     {
         id: 5,
-        question: 'WHICH LAYER OF THE ATMOSPHERE CONTAINS THE OZONE LAYER?',
-        options: ['TROPOSPHERE', 'STRATOSPHERE', 'MESOSPHERE', 'THERMOSPHERE'],
-        answer: 2
+        question: 'What is the primary cause of the enhanced greenhouse effect?',
+        options: ['Deforestation', 'Increase in volcanic activity', 'Burning of fossil fuels', 'Increased solar radiation'],
+        answer: 3
     },
     {
         id: 6,
-        question: 'WHICH PHENOMENON CAUSES EL NIÑO?',
-        options: ['EARTHQUAKE', 'OCEAN CURRENTS', 'VOLCANIC ACTIVITY', 'SOLAR FLARES'],
+        question: 'Which of the following is considered a renewable source of energy?',
+        options: ['Coal', 'Wind energy', 'Natural gas', 'Oil'],
         answer: 2
     },
     {
         id: 7,
-        question: 'WHAT IS THE TERM FOR THE WARMING OF THE EARTH’S SURFACE?',
-        options: ['CLIMATE CHANGE', 'GLOBAL WARMING', 'OZONE DEPLETION', 'GREENHOUSE EFFECT'],
-        answer: 2
+        question: 'What is the effect of greenhouse gases trapping heat in the Earth\'s atmosphere?',
+        options: ['Global warming', 'Acid rain', 'Ozone depletion', 'Erosion'],
+        answer: 1
     },
     {
         id: 8,
-        question: 'WHICH OF THE FOLLOWING IS A RENEWABLE ENERGY SOURCE?',
-        options: ['COAL', 'SOLAR', 'OIL', 'NATURAL GAS'],
-        answer: 2
+        question: 'Which gas has the highest global warming potential?',
+        options: ['Methane', 'Carbon dioxide', 'Nitrous oxide', 'Water vapor'],
+        answer: 1
     },
     {
         id: 9,
-        question: 'WHICH COUNTRY IS THE LARGEST EMITTER OF CARBON DIOXIDE?',
-        options: ['USA', 'INDIA', 'CHINA', 'RUSSIA'],
-        answer: 3
+        question: 'What is the leading source of human-made carbon dioxide emissions?',
+        options: ['Deforestation', 'Fossil fuel combustion', 'Agriculture', 'Transportation'],
+        answer: 2
     },
     {
         id: 10,
-        question: 'WHAT IS THE PREDICTED RISE IN GLOBAL TEMPERATURE BY 2100 IF NO ACTION IS TAKEN?',
-        options: ['1°C', '3°C', '5°C', '2°C'],
+        question: 'What process releases methane, a potent greenhouse gas?',
+        options: ['Photosynthesis', 'Decomposition of organic matter', 'Precipitation', 'Combustion of gasoline'],
         answer: 2
     },
     {
         id: 11,
-        question: 'WHICH CLIMATE IS TYPICALLY FOUND AT THE EQUATOR?',
-        options: ['DESERT', 'TUNDRA', 'TROPICAL', 'POLAR'],
+        question: 'Which renewable energy source uses the sun\'s energy?',
+        options: ['Wind power', 'Biomass', 'Solar power', 'Geothermal energy'],
         answer: 3
     },
     {
         id: 12,
-        question: 'WHICH TERM REFERS TO A LONG-TERM CHANGE IN THE EARTH’S AVERAGE TEMPERATURE?',
-        options: ['WEATHER', 'CLIMATE', 'CLIMATE CHANGE', 'GLOBAL WARMING'],
-        answer: 3
+        question: 'What is the primary consequence of ozone layer depletion?',
+        options: ['Increase in UV radiation', 'Climate change', 'Acid rain', 'Loss of biodiversity'],
+        answer: 1
     },
     {
         id: 13,
-        question: 'WHAT IS THE MAIN CAUSE OF OCEAN ACIDIFICATION?',
-        options: ['NITROGEN', 'SULFUR', 'CARBON DIOXIDE', 'METHANE'],
+        question: 'Which fossil fuel is primarily responsible for air pollution in urban areas?',
+        options: ['Coal', 'Natural gas', 'Petroleum', 'Biomass'],
         answer: 3
     },
     {
         id: 14,
-        question: 'WHICH OCEAN IS THE LARGEST?',
-        options: ['ATLANTIC OCEAN', 'PACIFIC OCEAN', 'INDIAN OCEAN', 'ARCTIC OCEAN'],
+        question: 'What international agreement aimed to reduce carbon emissions to combat climate change?',
+        options: ['Kyoto Protocol', 'Paris Agreement', 'Montreal Protocol', 'Rio Declaration'],
         answer: 2
     },
     {
         id: 15,
-        question: 'WHAT IS THE SALINITY OF OCEAN WATER?',
-        options: ['1%', '3.5%', '7%', '0.5%'],
-        answer: 2
+        question: 'Which of the following gases is NOT a greenhouse gas?',
+        options: ['Water vapor', 'Carbon dioxide', 'Nitrous oxide', 'Oxygen'],
+        answer: 4
     },
     {
         id: 16,
-        question: 'WHAT IS THE NAME OF THE DEEPEST PART OF THE OCEAN?',
-        options: ['MARIANA TRENCH', 'JAVA TRENCH', 'TONGA TRENCH', 'PUERTO RICO TRENCH'],
-        answer: 1
+        question: 'Which of the following contributes to the greenhouse effect?',
+        options: ['Decrease in land use', 'Increased deforestation', 'Industrial development', 'Both b and c'],
+        answer: 4
     },
     {
         id: 17,
-        question: 'WHAT IS THE LARGEST CORAL REEF SYSTEM IN THE WORLD?',
-        options: ['GREAT BARRIER REEF', 'BELIZE BARRIER REEF', 'MESOAMERICAN REEF', 'RED SEA CORAL REEF'],
-        answer: 1
+        question: 'What is the primary purpose of renewable energy?',
+        options: ['Increase fossil fuel usage', 'Reduce greenhouse gas emissions', 'Enhance the greenhouse effect', 'Increase global warming'],
+        answer: 2
     },
     {
         id: 18,
-        question: 'WHICH CURRENT IS RESPONSIBLE FOR WARMING WESTERN EUROPE?',
-        options: ['GULF STREAM', 'LABRADOR CURRENT', 'CANARY CURRENT', 'KUROSHIO CURRENT'],
+        question: 'Which of these gases plays a role in the depletion of the ozone layer?',
+        options: ['Chlorofluorocarbons (CFCs)', 'Carbon monoxide', 'Methane', 'Sulfur dioxide'],
         answer: 1
     },
     {
         id: 19,
-        question: 'WHAT PERCENTAGE OF THE EARTH\'S SURFACE IS COVERED BY OCEANS?',
-        options: ['50%', '60%', '70%', '80%'],
-        answer: 3
+        question: 'Which sector is the largest source of fossil fuel-related emissions?',
+        options: ['Agriculture', 'Energy production', 'Transportation', 'Manufacturing'],
+        answer: 2
     },
     {
         id: 20,
-        question: 'WHICH OCEAN IS KNOWN AS THE "SOUTHERN OCEAN"?',
-        options: ['INDIAN OCEAN', 'ATLANTIC OCEAN', 'PACIFIC OCEAN', 'ANTARCTIC OCEAN'],
-        answer: 4
+        question: 'What renewable energy source uses water flow to generate electricity?',
+        options: ['Solar energy', 'Wind energy', 'Hydroelectric power', 'Geothermal energy'],
+        answer: 3
     },
     {
         id: 21,
-        question: 'WHICH ANIMAL IS KNOWN AS THE KING OF THE JUNGLE?',
-        options: ['TIGER', 'LION', 'ELEPHANT', 'BEAR'],
+        question: 'Which layer of the atmosphere contains the ozone layer?',
+        options: ['Troposphere', 'Stratosphere', 'Mesosphere', 'Thermosphere'],
         answer: 2
     },
     {
         id: 22,
-        question: 'WHICH BIRD IS THE FASTEST ON EARTH?',
-        options: ['EAGLE', 'PEREGRINE FALCON', 'HAWK', 'SPARROW'],
-        answer: 2
+        question: 'The burning of fossil fuels releases which harmful pollutant?',
+        options: ['Sulfur dioxide', 'Helium', 'Nitrogen', 'Neon'],
+        answer: 1
     },
     {
         id: 23,
-        question: 'WHAT IS THE LARGEST MAMMAL IN THE WORLD?',
-        options: ['ELEPHANT', 'BLUE WHALE', 'GIRAFFE', 'HIPPOPOTAMUS'],
-        answer: 2
+        question: 'Which energy source is the most environmentally friendly?',
+        options: ['Coal', 'Nuclear energy', 'Solar energy', 'Oil'],
+        answer: 3
     },
     {
         id: 24,
-        question: 'WHICH ANIMAL CAN LIVE BOTH IN WATER AND ON LAND?',
-        options: ['FISH', 'FROG', 'KANGAROO', 'CAMEL'],
+        question: 'The rise in global temperatures due to human activities is called:',
+        options: ['Global dimming', 'Global warming', 'Ozone depletion', 'Ocean cooling'],
         answer: 2
     },
     {
         id: 25,
-        question: 'WHICH ANIMAL IS ENDEMIC TO AUSTRALIA?',
-        options: ['LION', 'KANGAROO', 'POLAR BEAR', 'ELEPHANT'],
-        answer: 2
+        question: 'Which of the following helps reduce carbon emissions?',
+        options: ['Using electric vehicles', 'Deforestation', 'Burning fossil fuels', 'None of the above'],
+        answer: 1
     },
     {
         id: 26,
-        question: 'WHICH OF THESE ANIMALS IS CLASSIFIED AS A PRIMATE?',
-        options: ['ELEPHANT', 'DOLPHIN', 'CHIMPANZEE', 'PENGUIN'],
-        answer: 3
+        question: 'What is a negative consequence of burning coal for energy?',
+        options: ['Increased oxygen levels', 'Acid rain', 'Increased biodiversity', 'Ozone formation'],
+        answer: 2
     },
     {
         id: 27,
-        question: 'WHAT DO HERBIVOROUS ANIMALS PRIMARILY EAT?',
-        options: ['MEAT', 'INSECTS', 'PLANTS', 'FISH'],
+        question: 'Which of the following is NOT a renewable energy source?',
+        options: ['Solar energy', 'Wind energy', 'Natural gas', 'Hydropower'],
         answer: 3
     },
     {
         id: 28,
-        question: 'WHICH ANIMAL IS KNOWN FOR ITS ABILITY TO CHANGE COLORS?',
-        options: ['CROCODILE', 'CHAMELEON', 'TIGER', 'OSTRICH'],
+        question: 'What happens when greenhouse gases build up in the atmosphere?',
+        options: ['They cool the Earth\'s surface', 'They trap heat', 'They block sunlight', 'They create more oxygen'],
         answer: 2
     },
     {
         id: 29,
-        question: 'WHICH BEAR SPECIES IS NATIVE TO THE ARCTIC REGION?',
-        options: ['GRIZZLY BEAR', 'PANDA BEAR', 'POLAR BEAR', 'BLACK BEAR'],
-        answer: 3
+        question: 'What is the primary source of renewable energy on Earth?',
+        options: ['Sun', 'Water', 'Wind', 'Geothermal heat'],
+        answer: 1
     },
     {
         id: 30,
-        question: 'WHICH ANIMAL HAS THE LONGEST MIGRATION OF ANY MAMMAL?',
-        options: ['AFRICAN ELEPHANT', 'BLUE WHALE', 'ARCTIC TERN', 'GRAY WHALE'],
-        answer: 4
+        question: 'Which energy resource is finite and will eventually run out?',
+        options: ['Solar power', 'Fossil fuels', 'Wind energy', 'Tidal power'],
+        answer: 2
     },
     {
         id: 31,
-        question: 'WHICH CONTINENT IS THE LARGEST BY LAND AREA?',
-        options: ['AFRICA', 'ASIA', 'NORTH AMERICA', 'EUROPE'],
-        answer: 2
-    },
-    {
-        id: 32,
-        question: 'WHICH RIVER IS THE LONGEST IN THE WORLD?',
-        options: ['AMAZON', 'NILE', 'MISSISSIPPI', 'YANGTZE'],
-        answer: 2
-    },
-    {
-        id: 33,
-        question: 'MOUNT EVEREST IS LOCATED IN WHICH COUNTRY?',
-        options: ['CHINA', 'INDIA', 'NEPAL', 'PAKISTAN'],
+        question: 'What is the main effect of carbon dioxide in the atmosphere?',
+        options: ['It helps plants grow', 'It reflects sunlight', 'It traps heat', 'It creates clouds'],
         answer: 3
     },
     {
-        id: 34,
-        question: 'WHICH DESERT IS THE LARGEST IN THE WORLD?',
-        options: ['SAHARA', 'ARCTIC', 'GOBI', 'KALAHARI'],
+        id: 32,
+        question: 'What is the benefit of using renewable energy?',
+        options: ['It\'s cheaper than fossil fuels', 'It doesn\'t pollute the air', 'It provides unlimited energy', 'All of the above'],
+        answer: 4
+    },
+    {
+        id: 33,
+        question: 'Which gas is released from cows and livestock that contributes to climate change?',
+        options: ['Carbon dioxide', 'Methane', 'Oxygen', 'Hydrogen'],
         answer: 2
     },
     {
+        id: 34,
+        question: 'Which part of the atmosphere is being damaged by chemicals like CFCs?',
+        options: ['The ozone layer', 'The troposphere', 'The mesosphere', 'The exosphere'],
+        answer: 1
+    },
+    {
         id: 35,
-        question: 'WHAT IS THE CAPITAL CITY OF AUSTRALIA?',
-        options: ['SYDNEY', 'MELBOURNE', 'CANBERRA', 'BRISBANE'],
+        question: 'What is the long-term impact of fossil fuel usage?',
+        options: ['Cleaner air', 'Decreased temperatures', 'Climate change', 'Stable climate patterns'],
         answer: 3
     },
     {
         id: 36,
-        question: 'WHICH COUNTRY HAS THE MOST VOLCANOES?',
-        options: ['JAPAN', 'ICELAND', 'INDONESIA', 'USA'],
-        answer: 4
+        question: 'Which fossil fuel is most commonly used for electricity generation?',
+        options: ['Oil', 'Coal', 'Natural gas', 'Wood'],
+        answer: 2
     },
     {
         id: 37,
-        question: 'WHICH CONTINENT HAS THE MOST COUNTRIES?',
-        options: ['AFRICA', 'ASIA', 'EUROPE', 'SOUTH AMERICA'],
-        answer: 1
+        question: 'What action can help reduce the carbon footprint?',
+        options: ['Increasing deforestation', 'Planting more trees', 'Using more coal', 'Using diesel vehicles'],
+        answer: 2
     },
     {
         id: 38,
-        question: 'WHAT IS THE SMALLEST OCEAN IN THE WORLD?',
-        options: ['ATLANTIC', 'INDIAN', 'ARCTIC', 'PACIFIC'],
+        question: 'Which sector is the largest consumer of fossil fuels?',
+        options: ['Agriculture', 'Energy production', 'Transportation', 'Construction'],
         answer: 3
     },
     {
         id: 39,
-        question: 'WHICH COUNTRY IS THE SMALLEST BY LAND AREA?',
-        options: ['MONACO', 'VATICAN CITY', 'MALTA', 'SAN MARINO'],
-        answer: 2
-    },
-    {
-        id: 40,
-        question: 'WHICH ISLAND IS THE LARGEST IN THE WORLD?',
-        options: ['GREENLAND', 'NEW GUINEA', 'BORNEO', 'MADAGASCAR'],
-        answer: 1
-    },
-    {
-        id: 41,
-        question: 'WHAT IS THE NAME OF THE WORLD\'S LARGEST LAKE?',
-        options: ['VICTORIA', 'SUPERIOR', 'Caspian Sea', 'MICHIGAN'],
+        question: 'Which process contributes the most to deforestation?',
+        options: ['Urbanization', 'Industrial expansion', 'Logging for agriculture', 'Mining'],
         answer: 3
     },
     {
+        id: 40,
+        question: 'Which renewable energy technology uses the Earth’s internal heat?',
+        options: ['Solar energy', 'Wind energy', 'Geothermal energy', 'Tidal energy'],
+        answer: 3
+    },
+    {
+        id: 41,
+        question: 'Which form of energy does NOT produce greenhouse gases?',
+        options: ['Coal energy', 'Nuclear energy', 'Oil energy', 'Natural gas energy'],
+        answer: 2
+    },
+    {
         id: 42,
-        question: 'WHICH COUNTRY IS HOME TO THE AMAZON RAINFOREST?',
-        options: ['PERU', 'BRAZIL', 'COLOMBIA', 'VENEZUELA'],
+        question: 'What is one major challenge of using renewable energy?',
+        options: ['High greenhouse gas emissions', 'Intermittency of resources', 'Limited technology', 'It\'s non-sustainable'],
         answer: 2
     },
     {
         id: 43,
-        question: 'WHICH RIVER RUNS THROUGH LONDON?',
-        options: ['THAMES', 'SEINE', 'DANUBE', 'RHINE'],
-        answer: 1
-    },
-    {
-        id: 44,
-        question: 'WHICH MOUNTAIN RANGE SEPARATES EUROPE FROM ASIA?',
-        options: ['HIMALAYAS', 'ALPS', 'ANDES', 'URAL'],
-        answer: 4
-    },
-    {
-        id: 45,
-        question: 'WHAT IS THE LARGEST CONTINENT BY POPULATION?',
-        options: ['EUROPE', 'AFRICA', 'ASIA', 'NORTH AMERICA'],
+        question: 'How does deforestation impact climate change?',
+        options: ['It increases biodiversity', 'It reduces carbon dioxide levels', 'It increases greenhouse gas emissions', 'It cools the Earth’s surface'],
         answer: 3
     },
     {
+        id: 44,
+        question: 'Which of the following is a major contributor to sea-level rise?',
+        options: ['Global warming', 'Acid rain', 'Forest fires', 'Deforestation'],
+        answer: 1
+    },
+    {
+        id: 45,
+        question: 'What is a potential effect of the ozone layer being depleted?',
+        options: ['Increased skin cancer rates', 'Decreased global warming', 'Reduced rainfall', 'More oxygen in the atmosphere'],
+        answer: 1
+    },
+    {
         id: 46,
-        question: 'WHAT IS THE NAME OF THE DESERT LOCATED IN SOUTHERN AFRICA?',
-        options: ['SAHARA', 'KALAHARI', 'GOBI', 'SONORAN'],
+        question: 'Which of these is a solution to reduce the impact of climate change?',
+        options: ['Burning more coal', 'Investing in renewable energy', 'Using fossil fuels for transportation', 'Increasing deforestation'],
         answer: 2
     },
     {
         id: 47,
-        question: 'WHICH COUNTRY HAS THE MOST TIME ZONES?',
-        options: ['USA', 'FRANCE', 'RUSSIA', 'CHINA'],
-        answer: 2
+        question: 'What is the main cause of coral bleaching?',
+        options: ['Air pollution', 'Greenhouse gases', 'Rising sea temperatures', 'Ozone depletion'],
+        answer: 3
     },
     {
         id: 48,
-        question: 'WHICH COUNTRY IS KNOWN AS THE LAND OF THE RISING SUN?',
-        options: ['JAPAN', 'SOUTH KOREA', 'CHINA', 'THAILAND'],
-        answer: 1
+        question: 'Which activity contributes the most to greenhouse gas emissions?',
+        options: ['Agriculture', 'Transportation', 'Electricity production', 'Industrial waste'],
+        answer: 3
     },
     {
         id: 49,
-        question: 'WHICH RIVER IS CONSIDERED SACRED IN INDIA?',
-        options: ['NILE', 'GANGES', 'YANGTZE', 'AMAZON'],
+        question: 'What human activity is contributing to the acidification of the oceans?',
+        options: ['Deforestation', 'Burning fossil fuels', 'Ozone layer depletion', 'Mining'],
         answer: 2
     },
     {
         id: 50,
-        question: 'WHAT IS THE NAME OF THE LARGEST DESERT IN NORTH AMERICA?',
-        options: ['MOJAVE', 'CHIHUAHUAN', 'SONORAN', 'GREAT BASIN'],
-        answer: 3
+        question: 'How does renewable energy benefit the environment?',
+        options: ['By reducing greenhouse gases', 'By increasing fossil fuel usage', 'By creating acid rain', 'By depleting the ozone layer'],
+        answer: 1
     }
 ];
